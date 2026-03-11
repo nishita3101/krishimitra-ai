@@ -231,6 +231,5 @@ KrishiMitra generates answers and **can read them aloud using speech output**.
 
 - 📷 Crop disease detection using images
 - 🌦 Weather information integration
-- 💰 Real-time mandi price updates
 - 📱 Mobile application for farmers
-- 🌍 Multi-language support
+  

@@ -49,7 +49,7 @@ Hindi AI Answer
            ↓
 Text-to-Speech (Voice Response)
 
-This approach ensures the AI answers using relevant agriculture knowledge instead of guessing.
+This ensures answers are context-based and relevant to agriculture knowledge.
 
 🖥️ Application Screens
 Login Page
@@ -132,7 +132,7 @@ Install dependencies
 pip install -r requirements.txt
 Install Ollama
 
-Download Ollama:
+Download Ollama from:
 
 https://ollama.ai
 
@@ -159,12 +159,12 @@ Farmers can ask questions like:
 फसल में कीट लग जाए तो क्या करें?
 टमाटर में फूल झड़ना कैसे रोकें?
 
-KrishiMitra will generate answers and can read them aloud using speech output.
+KrishiMitra will generate answers using the agriculture dataset and can read them aloud using speech output.
 
 🎯 Future Improvements
 
 📷 Crop disease detection using images
+
 🌦 Weather information integration
-💰 Real-time mandi price updates
+
 📱 Mobile application for farmers
-🌍 Multi-language support
